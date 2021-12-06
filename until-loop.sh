@@ -1,4 +1,4 @@
-#1/bin/bash
+#!/bin/bash
 #until loop
 
 #asign value to the variable
